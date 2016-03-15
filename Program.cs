@@ -10,7 +10,8 @@ namespace PTM_GIT_Gabriel_Zdancewicz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git!");
+            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Gabriel Zdancewicz!");
 
         }
     }
